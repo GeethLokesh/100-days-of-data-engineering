@@ -1,0 +1,50 @@
+[
+    {
+        "order_id": "1001",
+        "customer_name": "geeth",
+        "product": "Laptop",
+        "amount": "850.5",
+        "order_date": "2026-04-15",
+        "status": "completed"
+    },
+    {
+        "order_id": "1002",
+        "customer_name": "Riya",
+        "product": "Mouse",
+        "amount": "25",
+        "order_date": "04/14/2026",
+        "status": "Completed"
+    },
+    {
+        "order_id": "1003",
+        "customer_name": "",
+        "product": "Keyboard",
+        "amount": "45.99",
+        "order_date": "2026/04/13",
+        "status": "pending"
+    },
+    {
+        "order_id": "1004",
+        "customer_name": "Arjun",
+        "product": "",
+        "amount": "-10",
+        "order_date": "2026-04-12",
+        "status": "cancelled"
+    },
+    {
+        "order_id": "1005",
+        "customer_name": "Meera",
+        "product": "Monitor",
+        "amount": "not_available",
+        "order_date": "2026-04-11",
+        "status": "completed"
+    },
+    {
+        "order_id": "1006",
+        "customer_name": "David",
+        "product": "Headphones",
+        "amount": "120",
+        "order_date": "15-04-2026",
+        "status": "shipped"
+    }
+]

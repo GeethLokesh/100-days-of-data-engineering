@@ -1,0 +1,16 @@
+2026-04-16 21:13:19,722 - INFO - ETL pipeline started
+2026-04-16 21:13:19,731 - INFO - ETL pipeline finished successfully
+2026-04-16 21:27:37,439 - INFO - Pipeline started
+2026-04-16 21:27:37,439 - INFO - Input file read successfully
+2026-04-16 21:27:37,439 - INFO - Processing 6 records
+2026-04-16 21:27:37,442 - WARNING - Invalid record skipped: {'order_id': '1003', 'customer_name': '', 'product': 'Keyboard', 'amount': '45.99', 'order_date': '2026/04/13', 'status': 'pending'}
+2026-04-16 21:27:37,442 - WARNING - Invalid record skipped: {'order_id': '1004', 'customer_name': 'Arjun', 'product': '', 'amount': '-10', 'order_date': '2026-04-12', 'status': 'cancelled'}
+2026-04-16 21:27:37,442 - WARNING - Invalid record skipped: {'order_id': '1005', 'customer_name': 'Meera', 'product': 'Monitor', 'amount': 'not_available', 'order_date': '2026-04-11', 'status': 'completed'}
+2026-04-16 21:27:37,444 - WARNING - Invalid record skipped: {'order_id': '1006', 'customer_name': 'David', 'product': 'Headphones', 'amount': '120', 'order_date': '15-04-2026', 'status': 'shipped'}
+2026-04-16 21:27:37,444 - INFO - Valid records: 2
+2026-04-16 21:27:37,444 - INFO - Invalid records: 4
+2026-04-16 21:27:37,445 - INFO - Cleaned data saved to output/cleaned_orders.json
+2026-04-16 21:27:37,445 - INFO - Report saved to output/data_quality_report.txt
+2026-04-16 21:27:37,445 - INFO - Pipeline completed successfully
+2026-04-16 21:52:44,828 - INFO - Pipeline started
+2026-04-16 21:52:44,828 - ERROR - Pipeline failed: [Errno 2] No such file or directory: 'data/sales.csv'

@@ -1,0 +1,5 @@
+JSON Data Quality Report
+========================
+Total records: 6
+Valid records: 2
+Invalid records: 4

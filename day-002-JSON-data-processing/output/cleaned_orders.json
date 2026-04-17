@@ -1,0 +1,18 @@
+[
+    {
+        "order_id": "1001",
+        "customer_name": "Geeth",
+        "product": "Laptop",
+        "amount": 850.5,
+        "order_date": "2026-04-15",
+        "status": "completed"
+    },
+    {
+        "order_id": "1002",
+        "customer_name": "Riya",
+        "product": "Mouse",
+        "amount": 25.0,
+        "order_date": "2026-04-14",
+        "status": "completed"
+    }
+]
