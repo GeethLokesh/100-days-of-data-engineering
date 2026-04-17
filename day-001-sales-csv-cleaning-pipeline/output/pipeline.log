@@ -1,0 +1,10 @@
+2026-04-16 18:25:32,484 - INFO - ETL pipeline started
+2026-04-16 18:25:32,484 - INFO - Starting data extraction from data/raw_sales.csv
+2026-04-16 18:25:32,486 - INFO - Extracted 11 rows
+2026-04-16 18:25:32,486 - INFO - Starting data transformation
+2026-04-16 18:25:32,492 - INFO - Transformation complete. Final row count: 5
+2026-04-16 18:25:32,492 - INFO - Loading clean data to output/clean_sales.csv
+2026-04-16 18:25:32,494 - INFO - Clean data saved successfully
+2026-04-16 18:25:32,494 - INFO - Writing data quality report to output/data_quality_report.txt
+2026-04-16 18:25:32,494 - INFO - Data quality report created successfully
+2026-04-16 18:25:32,495 - INFO - ETL pipeline finished successfully

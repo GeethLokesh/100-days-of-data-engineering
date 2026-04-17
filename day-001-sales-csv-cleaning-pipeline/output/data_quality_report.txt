@@ -1,0 +1,9 @@
+DATA QUALITY REPORT
+==============================
+Initial row count: 11
+Duplicate rows found: 1
+Rows with missing required values: 3
+Rows with invalid dates: 1
+Rows with invalid quantity: 2
+Rows with invalid price: 1
+Final clean row count: 5
