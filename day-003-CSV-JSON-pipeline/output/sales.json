@@ -1,0 +1,30 @@
+[
+    {
+        "order_id": 1,
+        "customer_name": "John Doe",
+        "order_date": "2026-04-01",
+        "amount": 200.0,
+        "status": "completed"
+    },
+    {
+        "order_id": 2,
+        "customer_name": "Jane Smith",
+        "order_date": "2026-04-02",
+        "amount": 350.0,
+        "status": "pending"
+    },
+    {
+        "order_id": 3,
+        "customer_name": "unknown",
+        "order_date": "2026-04-03",
+        "amount": 150.0,
+        "status": "completed"
+    },
+    {
+        "order_id": 4,
+        "customer_name": "Mike Brown",
+        "order_date": null,
+        "amount": 400.0,
+        "status": "cancelled"
+    }
+]

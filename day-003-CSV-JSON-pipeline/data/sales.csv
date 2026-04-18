@@ -1,0 +1,5 @@
+order_id,customer_name,order_date,amount,status
+1,John Doe,2026-04-01,200,Completed
+2,Jane Smith,04/02/2026,350,pending
+3,,2026/04/03,150,Completed
+4,Mike Brown,,400,Cancelled

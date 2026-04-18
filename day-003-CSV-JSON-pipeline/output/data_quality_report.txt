@@ -1,0 +1,4 @@
+DATA QUALITY REPORT
+Total Rows: 4
+Missing Customer Names: 1
+Invalid Dates: 1

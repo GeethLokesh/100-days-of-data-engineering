@@ -1,0 +1,8 @@
+2026-04-16 21:53:09,973 - INFO - Pipeline started
+2026-04-16 21:53:09,973 - ERROR - Pipeline failed: Expecting value: line 1 column 1 (char 0)
+2026-04-16 21:56:12,484 - INFO - Pipeline started
+2026-04-16 21:56:12,484 - ERROR - Pipeline failed: Expecting value: line 1 column 1 (char 0)
+2026-04-16 22:11:35,119 - INFO - CSV to JSON pipeline completed successfully
+2026-04-16 22:11:54,820 - INFO - CSV to JSON pipeline completed successfully
+2026-04-17 00:33:53,148 - INFO - CSV to JSON pipeline completed successfully
+2026-04-17 00:38:59,651 - INFO - CSV to JSON pipeline completed successfully
