@@ -1,0 +1,19 @@
+2026-04-17 13:22:34,659 - INFO - Reading CSV file
+2026-04-17 13:23:07,127 - INFO - Reading CSV file
+2026-04-17 13:23:07,140 - INFO - Transforming data
+2026-04-17 13:23:07,151 - INFO - Running data quality checks
+2026-04-17 13:23:07,151 - INFO - Data quality check passed
+2026-04-17 13:23:07,151 - INFO - Saving aggregated data
+2026-04-17 13:23:07,154 - INFO - Pipeline completed successfully
+2026-04-17 20:16:54,386 - INFO - Reading CSV file
+2026-04-17 20:16:54,398 - INFO - Transforming data
+2026-04-18 14:29:02,365 - INFO - Reading CSV file
+2026-04-18 14:29:02,382 - INFO - Cleaning data
+2026-04-18 14:29:02,391 - INFO - Transforming data
+2026-04-18 14:29:42,416 - INFO - Reading CSV file
+2026-04-18 14:29:42,418 - INFO - Cleaning data
+2026-04-18 14:29:42,424 - INFO - Transforming data
+2026-04-18 14:29:42,429 - INFO - Running data quality checks
+2026-04-18 14:29:42,430 - INFO - Data quality check passed
+2026-04-18 14:29:42,430 - INFO - Saving aggregated data
+2026-04-18 14:29:42,433 - INFO - Pipeline completed successfully
