@@ -1,0 +1,5 @@
+customer_id,product_name,purchase_date,quantity,order_date,order_amount
+101,laptop,2026-04-10,2,2026-04-10,1200
+102,mouse,2026-04-11,1,2026-04-11,25
+103,keyboard,2026-04-12,1,2026-04-12,80
+101,laptop,2026-04-10,2,2026-04-10,1200

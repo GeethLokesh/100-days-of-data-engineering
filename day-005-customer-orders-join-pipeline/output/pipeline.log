@@ -1,0 +1,22 @@
+2026-04-18 17:22:54,047 - INFO - Pipeline started
+2026-04-18 17:22:54,047 - INFO - Reading customers file
+2026-04-18 17:22:54,055 - INFO - Reading orders file
+2026-04-18 17:22:54,058 - INFO - Cleaning customers data
+2026-04-18 17:22:54,066 - INFO - Cleaning orders data
+2026-04-18 17:22:54,073 - INFO - Joining customers and orders data
+2026-04-18 17:22:54,087 - INFO - Writing final joined data to CSV
+2026-04-18 17:22:54,090 - INFO - Generating data quality report
+2026-04-18 17:22:54,091 - INFO - Pipeline completed successfully
+2026-04-18 17:37:49,219 - INFO - Pipeline started
+2026-04-18 17:37:49,219 - INFO - Loading CSV file
+2026-04-18 17:38:08,172 - INFO - Pipeline started
+2026-04-18 17:38:08,172 - INFO - Loading CSV file
+2026-04-18 17:38:22,947 - INFO - Pipeline started
+2026-04-18 17:38:22,947 - INFO - Loading CSV file
+2026-04-18 17:38:22,948 - INFO - Loading JSON file
+2026-04-18 17:38:22,950 - INFO - Cleaning CSV data
+2026-04-18 17:38:22,955 - INFO - Cleaning JSON data
+2026-04-18 17:38:22,958 - INFO - Merging CSV and JSON datasets
+2026-04-18 17:38:22,973 - INFO - Saving merged output file
+2026-04-18 17:38:22,975 - INFO - Generating data quality report
+2026-04-18 17:38:22,975 - INFO - Pipeline completed successfully

@@ -1,0 +1,7 @@
+[
+    {"customer_id": "101", "product_name": "laptop", "order_date": "2026-04-10", "order_amount": 1200},
+    {"customer_id": "102 ", "product_name": " Mouse ", "order_date": "04/11/2026", "order_amount": 25},
+    {"customer_id": "103", "product_name": "KEYBOARD", "order_date": "2026/04/12", "order_amount": 80},
+    {"customer_id": "106", "product_name": "Webcam", "order_date": "2026-04-18", "order_amount": 60},
+    {"customer_id": null, "product_name": "Monitor", "order_date": "18/04/2026", "order_amount": 200}
+]

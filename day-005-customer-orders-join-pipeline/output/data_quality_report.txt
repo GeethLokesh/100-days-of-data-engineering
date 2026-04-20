@@ -1,0 +1,9 @@
+DATA QUALITY REPORT
+-------------------
+CSV input rows: 6
+JSON input rows: 5
+CSV rows dropped during cleaning: 1
+JSON rows dropped during cleaning: 1
+CSV rows without match in JSON: 1
+JSON rows without match in CSV: 1
+Final merged rows: 4

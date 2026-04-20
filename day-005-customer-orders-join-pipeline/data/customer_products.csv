@@ -1,0 +1,7 @@
+customer_id,product_name,purchase_date,quantity
+ 101 , Laptop ,2026-04-10,2
+102,mouse,04/11/2026,1
+103,Keyboard,2026/04/12,1
+104,Monitor,12-04-2026,1
+105,,2026-04-15,3
+101,Laptop,2026-04-10,2
