@@ -1,0 +1,10 @@
+2026-04-19 19:23:34,560 - INFO - Fetching data from API
+2026-04-19 19:23:35,057 - INFO - Cleaning data
+2026-04-19 19:23:35,096 - INFO - Saving cleaned data
+2026-04-19 19:23:35,103 - INFO - Generating data quality report
+2026-04-19 19:23:35,105 - INFO - Pipeline completed successfully
+2026-04-19 19:31:19,170 - INFO - Fetching data from API
+2026-04-19 19:31:19,606 - INFO - Cleaning data
+2026-04-19 19:31:19,618 - INFO - Saving cleaned data
+2026-04-19 19:31:19,622 - INFO - Generating data quality report
+2026-04-19 19:31:19,623 - INFO - Pipeline completed successfully
