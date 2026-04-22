@@ -1,0 +1,33 @@
+2026-04-20 17:33:48,756 - INFO - Pipeline started
+2026-04-20 17:33:48,756 - INFO - Fetching data from API
+2026-04-20 17:33:49,161 - INFO - Fetched 100 records from API
+2026-04-20 17:33:49,164 - INFO - Valid records: 100
+2026-04-20 17:33:49,164 - INFO - Invalid records: 0
+2026-04-20 17:33:49,164 - INFO - Creating SQLite database connection
+2026-04-20 17:33:49,169 - INFO - Creating posts table if it does not exist
+2026-04-20 17:33:49,185 - INFO - Loading data into SQLite table
+2026-04-20 17:33:49,190 - INFO - Inserted or updated 100 records into posts table
+2026-04-20 17:33:49,190 - INFO - Writing data quality report
+2026-04-20 17:33:49,191 - INFO - Pipeline completed successfully
+2026-04-20 18:01:36,999 - INFO - Pipeline started
+2026-04-20 18:01:36,999 - INFO - Fetching data from API
+2026-04-20 18:01:37,348 - INFO - Fetched 100 records from API
+2026-04-20 18:01:37,349 - INFO - Valid records: 100
+2026-04-20 18:01:37,349 - INFO - Invalid records: 0
+2026-04-20 18:01:37,349 - INFO - Creating SQLite database connection
+2026-04-20 18:01:37,350 - INFO - Creating posts table if it does not exist
+2026-04-20 18:01:37,350 - INFO - Loading data into SQLite table
+2026-04-20 18:01:37,356 - INFO - Inserted or updated 100 records into posts table
+2026-04-20 18:01:37,356 - INFO - Writing data quality report
+2026-04-20 18:01:37,356 - INFO - Pipeline completed successfully
+2026-04-20 18:01:57,187 - INFO - Pipeline started
+2026-04-20 18:01:57,187 - INFO - Fetching data from API
+2026-04-20 18:01:58,558 - INFO - Fetched 100 records from API
+2026-04-20 18:01:58,561 - INFO - Valid records: 100
+2026-04-20 18:01:58,561 - INFO - Invalid records: 0
+2026-04-20 18:01:58,561 - INFO - Creating SQLite database connection
+2026-04-20 18:01:58,563 - INFO - Creating posts table if it does not exist
+2026-04-20 18:01:58,564 - INFO - Loading data into SQLite table
+2026-04-20 18:01:58,570 - INFO - Inserted or updated 100 records into posts table
+2026-04-20 18:01:58,571 - INFO - Writing data quality report
+2026-04-20 18:01:58,572 - INFO - Pipeline completed successfully

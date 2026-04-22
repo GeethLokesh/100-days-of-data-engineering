@@ -1,0 +1,6 @@
+Data Quality Report
+===================
+
+Total valid records: 100
+Total invalid records: 0
+
