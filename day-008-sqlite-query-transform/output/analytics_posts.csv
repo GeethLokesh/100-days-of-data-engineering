@@ -1,0 +1,11 @@
+id,user_id,title,body,title_length,body_length,title_category
+1,1,sunt aut facere,quia et suscipit suscipit recusandae consequuntur,15,49,short
+2,1,qui est esse,est rerum tempore vitae sequi sint nihil reprehenderit,12,54,short
+3,2,ea molestias quasi exercitationem repellat qui ipsa sit aut,et iusto sed quo iure voluptatem occaecati omnis,59,48,long
+4,2,eum et est occaecati,ullam et saepe reiciendis voluptatem adipisci,20,45,medium
+5,3,nesciunt quas odio,repudiandae veniam quaerat sunt sed alias aut fugiat,18,52,short
+6,3,dolorem eum magni eos aperiam quia,ut aspernatur corporis harum nihil quis provident,34,49,medium
+7,4,magnam facilis autem,dolore placeat quibusdam ea quo vitae,20,37,medium
+8,4,dolorem dolore est ipsam,dignissimos aperiam dolorem qui eum,24,35,medium
+9,5,nesciunt iure omnis dolorem tempora et accusantium,consectetur animi nesciunt iure dolore,50,38,medium
+10,5,optio molestias id quia eum,quo et expedita modi cum officia vel magni,27,42,medium

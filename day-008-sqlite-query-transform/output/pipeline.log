@@ -1,0 +1,15 @@
+2026-04-21 15:44:15,449 - INFO - Day 8 pipeline started
+2026-04-21 15:44:15,450 - INFO - Connecting to SQLite database
+2026-04-21 15:44:15,455 - INFO - Creating raw posts table if not exists
+2026-04-21 15:44:15,467 - INFO - Checking if sample data needs to be loaded
+2026-04-21 15:44:15,471 - INFO - Sample raw data inserted into posts table
+2026-04-21 15:44:15,471 - INFO - Running data quality checks on raw posts table
+2026-04-21 15:44:15,471 - INFO - Data quality report created
+2026-04-21 15:44:15,472 - INFO - Dropping existing analytics_posts table if exists
+2026-04-21 15:44:15,472 - INFO - Creating transformed analytics_posts table using SQL
+2026-04-21 15:44:15,475 - INFO - Transformed analytics_posts table created successfully
+2026-04-21 15:44:15,475 - INFO - Exporting analytics_posts table to CSV
+2026-04-21 15:44:15,476 - INFO - CSV export completed
+2026-04-21 15:44:15,476 - INFO - Generating SQL summary metrics
+2026-04-21 15:44:15,477 - INFO - Day 8 pipeline completed successfully
+2026-04-21 15:44:15,477 - INFO - Database connection closed

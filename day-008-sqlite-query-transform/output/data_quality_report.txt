@@ -1,0 +1,6 @@
+DAY 8 DATA QUALITY REPORT
+==========================
+Total raw records: 10
+Null or empty titles: 0
+Null or empty bodies: 0
+Duplicate ids: 0
