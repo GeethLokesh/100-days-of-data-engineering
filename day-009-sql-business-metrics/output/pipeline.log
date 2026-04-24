@@ -1,0 +1,14 @@
+2026-04-23 16:46:51,340 - INFO - Day 9 reporting pipeline started
+2026-04-23 16:46:51,340 - INFO - Connecting to SQLite database
+2026-04-23 16:46:51,340 - INFO - Generating KPI summary report
+2026-04-23 16:46:51,343 - INFO - Generating revenue by category report
+2026-04-23 16:46:51,343 - INFO - Generating top products report
+2026-04-23 16:46:51,344 - INFO - Generating sales by payment method report
+2026-04-23 16:46:51,347 - INFO - Saved report: kpi_summary.csv
+2026-04-23 16:46:51,349 - INFO - Saved report: revenue_by_category.csv
+2026-04-23 16:46:51,351 - INFO - Saved report: top_products.csv
+2026-04-23 16:46:51,353 - INFO - Saved report: sales_by_payment_method.csv
+2026-04-23 16:46:51,354 - INFO - Starting data quality checks
+2026-04-23 16:46:51,356 - INFO - Data quality checks completed
+2026-04-23 16:46:51,357 - INFO - Database connection closed
+2026-04-23 16:46:51,357 - INFO - Day 9 reporting pipeline completed successfully

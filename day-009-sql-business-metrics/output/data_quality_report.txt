@@ -1,0 +1,7 @@
+DAY 9 DATA QUALITY REPORT
+------------------------------
+Null rows count: 0
+Duplicate order_id groups: 0
+Rows with invalid quantity: 0
+Rows with invalid unit price: 0
+Overall status: PASS

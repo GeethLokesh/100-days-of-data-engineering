@@ -1,0 +1,4 @@
+payment_method,total_orders,total_revenue
+Card,6,1370.0
+UPI,5,522.0
+Cash,4,260.5
