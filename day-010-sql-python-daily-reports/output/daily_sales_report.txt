@@ -1,0 +1,26 @@
+Daily Sales Report
+==================
+
+Report generated at: 2026-04-25 12:08:50.896794
+
+Business Summary
+----------------
+Total Orders: 12
+Total Revenue: $3880.0
+Average Order Value: $323.33
+
+Sales by Region
+----------------
+region  total_orders  total_revenue
+  East             4         1330.0
+  West             3         1045.0
+ North             2         1030.0
+ South             3          475.0
+
+Sales by Product
+----------------
+ product  total_orders  total_revenue
+  Laptop             3         2770.0
+ Monitor             3          730.0
+   Mouse             3          205.0
+Keyboard             3          175.0

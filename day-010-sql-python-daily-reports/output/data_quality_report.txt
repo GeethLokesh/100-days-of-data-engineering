@@ -1,0 +1,10 @@
+Data Quality Report
+===================
+
+Report generated at: 2026-04-25 12:08:50.870664
+
+Total records checked: 12
+Duplicate order IDs: 0
+Missing values: 0
+Invalid quantity records: 0
+Invalid unit price records: 0

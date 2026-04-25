@@ -1,0 +1,11 @@
+2026-04-25 12:08:50,838 - INFO - Pipeline started
+2026-04-25 12:08:50,839 - INFO - Reading sales CSV file
+2026-04-25 12:08:50,855 - INFO - CSV file loaded successfully with 12 records
+2026-04-25 12:08:50,855 - INFO - Starting data quality checks
+2026-04-25 12:08:50,871 - INFO - Data quality checks passed
+2026-04-25 12:08:50,871 - INFO - Adding calculated revenue column
+2026-04-25 12:08:50,872 - INFO - Loading data into SQLite database
+2026-04-25 12:08:50,888 - INFO - Data loaded into SQLite table: sales
+2026-04-25 12:08:50,888 - INFO - Generating SQL reports
+2026-04-25 12:08:50,901 - INFO - Daily sales report generated successfully
+2026-04-25 12:08:50,902 - INFO - Pipeline completed successfully
