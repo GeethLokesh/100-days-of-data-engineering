@@ -1,0 +1,12 @@
+Data Quality Report
+===================
+
+Report generated at: 2026-04-26 10:00:05.107464
+
+Source records read: 5
+Clean records after validation: 5
+Rejected records: 0
+New records identified for incremental load: 5
+Records loaded into database: 5
+
+Data quality status: PASSED

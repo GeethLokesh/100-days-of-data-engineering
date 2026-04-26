@@ -1,0 +1,27 @@
+2026-04-26 09:57:40,403 - INFO - Incremental data loading pipeline started
+2026-04-26 09:57:40,427 - INFO - Database tables created or already exist
+2026-04-26 09:57:40,428 - INFO - No watermark found. Using default watermark
+2026-04-26 09:57:40,428 - INFO - Reading source CSV file
+2026-04-26 09:57:40,443 - INFO - Cleaning source data
+2026-04-26 09:57:40,460 - INFO - Initial records: 5
+2026-04-26 09:57:40,460 - INFO - Clean records: 5
+2026-04-26 09:57:40,460 - INFO - Rejected records: 0
+2026-04-26 09:57:40,460 - INFO - Filtering records for incremental load
+2026-04-26 09:57:40,466 - INFO - New records found: 5
+2026-04-26 09:57:40,467 - ERROR - Pipeline failed: datatype mismatch
+2026-04-26 09:57:40,468 - INFO - Database connection closed
+2026-04-26 10:00:05,078 - INFO - Incremental data loading pipeline started
+2026-04-26 10:00:05,079 - INFO - Database tables created or already exist
+2026-04-26 10:00:05,079 - INFO - No watermark found. Using default watermark
+2026-04-26 10:00:05,079 - INFO - Reading source CSV file
+2026-04-26 10:00:05,081 - INFO - Cleaning source data
+2026-04-26 10:00:05,089 - INFO - Initial records: 5
+2026-04-26 10:00:05,089 - INFO - Clean records: 5
+2026-04-26 10:00:05,089 - INFO - Rejected records: 0
+2026-04-26 10:00:05,089 - INFO - Filtering records for incremental load
+2026-04-26 10:00:05,092 - INFO - New records found: 5
+2026-04-26 10:00:05,099 - INFO - Records loaded into database: 5
+2026-04-26 10:00:05,107 - INFO - Watermark updated to: 2026-04-24 11:20:00
+2026-04-26 10:00:05,107 - INFO - Data quality report generated
+2026-04-26 10:00:05,107 - INFO - Incremental data loading pipeline completed successfully
+2026-04-26 10:00:05,108 - INFO - Database connection closed

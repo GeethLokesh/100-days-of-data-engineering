@@ -1,0 +1,6 @@
+order_id,customer_name,product,quantity,price,order_date,last_updated
+101,John Smith,Laptop,1,900,2026-04-20,2026-04-20 10:00:00
+102,Emily Davis,Mouse,2,25,2026-04-21,2026-04-21 09:30:00
+103,Michael Brown,Keyboard,1,75,2026-04-22,2026-04-22 14:15:00
+104,Sarah Wilson,Monitor,1,250,2026-04-23,2026-04-23 16:45:00
+105,David Lee,USB Cable,3,10,2026-04-24,2026-04-24 11:20:00
