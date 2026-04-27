@@ -1,0 +1,14 @@
+2026-04-26 22:54:26,649 - INFO - Pipeline started
+2026-04-26 22:54:26,649 - INFO - Creating SQLite database connection
+2026-04-26 22:54:26,653 - INFO - Creating customer dimension table if it does not exist
+2026-04-26 22:54:26,664 - INFO - Seeding existing customer records if table is empty
+2026-04-26 22:54:26,668 - INFO - Existing customer records inserted successfully
+2026-04-26 22:54:26,668 - INFO - Reading incoming customer update file
+2026-04-26 22:54:26,680 - INFO - Running data quality checks
+2026-04-26 22:54:26,689 - INFO - Data quality report created
+2026-04-26 22:54:26,690 - INFO - Applying SCD Type 1 logic
+2026-04-26 22:54:26,695 - INFO - SCD Type 1 completed. Inserted: 1, Updated: 3
+2026-04-26 22:54:26,696 - INFO - Exporting final customer dimension table
+2026-04-26 22:54:26,700 - INFO - Final customer dimension exported successfully
+2026-04-26 22:54:26,700 - INFO - Pipeline completed successfully. Inserted: 1, Updated: 3
+2026-04-26 22:54:26,700 - INFO - Database connection closed

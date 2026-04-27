@@ -1,0 +1,5 @@
+customer_id,customer_name,email,city,phone
+1,John Smith,john.new@example.com,Dallas,111-222-3333
+2,Sarah Lee,sarah@example.com,Chicago,222-333-4444
+3,Michael Brown,michael@example.com,New York,333-444-5555
+4,Emma Wilson,emma@example.com,Seattle,444-555-6666

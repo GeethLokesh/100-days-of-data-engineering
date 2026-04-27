@@ -1,0 +1,9 @@
+
+Data Quality Report
+Generated At: 2026-04-26 22:54:26.689399
+
+Total Incoming Records: 4
+Missing Customer ID Records: 0
+Duplicate Customer ID Records: 0
+Missing Email Records: 0
+Valid Records Loaded: 4
