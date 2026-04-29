@@ -1,0 +1,15 @@
+2026-04-28 19:03:54,159 - INFO - SCD Type 2 pipeline started
+2026-04-28 19:03:54,159 - INFO - Reading file: data/existing_customer_history.csv
+2026-04-28 19:04:41,487 - INFO - SCD Type 2 pipeline started
+2026-04-28 19:04:41,487 - INFO - Reading file: data/existing_customer_history.csv
+2026-04-28 19:04:41,502 - INFO - Reading file: data/incoming_customers.csv
+2026-04-28 19:05:47,509 - INFO - SCD Type 2 pipeline started
+2026-04-28 19:05:47,510 - INFO - Reading file: data/existing_customer_history.csv
+2026-04-28 19:05:47,512 - INFO - Reading file: data/incoming_customers.csv
+2026-04-28 19:05:47,521 - INFO - SCD Type 2 change detected for customer: 101
+2026-04-28 19:05:47,522 - INFO - No change found for customer: 102
+2026-04-28 19:05:47,525 - INFO - SCD Type 2 change detected for customer: 103
+2026-04-28 19:05:47,527 - INFO - Inserted new customer record: 104
+2026-04-28 19:05:47,531 - INFO - Final SCD Type 2 output written to: output/customer_history_scd_type_2.csv
+2026-04-28 19:05:47,532 - INFO - Data quality report written to: output/data_quality_report.txt
+2026-04-28 19:05:47,532 - INFO - SCD Type 2 pipeline completed successfully

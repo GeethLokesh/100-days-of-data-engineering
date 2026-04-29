@@ -1,0 +1,5 @@
+customer_id,customer_name,email,city,membership_status
+101,John Smith,john@example.com,Boston,Silver
+102,Sarah Lee,sarah@example.com,Chicago,Gold
+103,Michael Brown,michael_new@example.com,Dallas,Gold
+104,Emily Davis,emily@example.com,Seattle,Bronze

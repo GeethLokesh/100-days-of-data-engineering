@@ -1,0 +1,4 @@
+customer_id,customer_name,email,city,membership_status,start_date,end_date,is_current
+101,John Smith,john@example.com,New York,Silver,2024-01-01,,True
+102,Sarah Lee,sarah@example.com,Chicago,Gold,2024-01-01,,True
+103,Michael Brown,michael@example.com,Dallas,Bronze,2024-01-01,,True

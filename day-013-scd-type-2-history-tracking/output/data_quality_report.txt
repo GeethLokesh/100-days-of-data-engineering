@@ -1,0 +1,12 @@
+SCD Type 2 Data Quality Report
+==============================
+
+Validation Results:
+- No validation issues found.
+
+Pipeline Summary:
+- New version records inserted: 3
+- Existing customers updated: 2
+- Customers unchanged: 1
+- Brand new customers added: 1
+- Total final history records: 6
