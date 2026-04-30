@@ -1,0 +1,9 @@
+2026-04-29 20:52:42,211 - INFO - Pipeline started
+2026-04-29 20:52:42,211 - INFO - Reading customer source data
+2026-04-29 20:52:42,235 - INFO - Cleaning customer data
+2026-04-29 20:52:42,273 - INFO - Validating customer data
+2026-04-29 20:52:42,274 - INFO - Creating customer dimension table
+2026-04-29 20:52:42,282 - INFO - Saving dimension table as CSV
+2026-04-29 20:52:42,286 - INFO - Loading customer dimension table into SQLite
+2026-04-29 20:52:42,317 - INFO - Creating data quality report
+2026-04-29 20:52:42,318 - INFO - Pipeline completed successfully

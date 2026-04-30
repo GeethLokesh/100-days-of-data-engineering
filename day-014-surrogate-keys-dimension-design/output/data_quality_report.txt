@@ -1,0 +1,9 @@
+Day 14 Data Quality Report
+==========================
+
+Source record count: 8
+Final dimension record count: 7
+Duplicates removed: 1
+
+Validation Issues:
+- No major validation issues found

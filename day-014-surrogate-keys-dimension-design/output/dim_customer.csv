@@ -1,0 +1,8 @@
+customer_key,customer_id,first_name,last_name,full_name,email,city,state,signup_date,created_at
+1,C001,John,Smith,John Smith,john.smith@email.com,Dallas,TX,2024-01-10,2026-04-29 20:52:42
+2,C002,Sarah,Johnson,Sarah Johnson,sarah.johnson@email.com,Austin,TX,2024-01-15,2026-04-29 20:52:42
+3,C003,Michael,Brown,Michael Brown,michael.brown@email.com,Chicago,IL,2024-02-01,2026-04-29 20:52:42
+4,C004,Emily,Davis,Emily Davis,emily.davis@email.com,Seattle,WA,2024-02-12,2026-04-29 20:52:42
+5,C005,David,Wilson,David Wilson,david.wilson@email.com,Boston,MA,2024-03-05,2026-04-29 20:52:42
+6,C006,Lisa,Miller,Lisa Miller,unknown@email.com,Denver,CO,2024-03-20,2026-04-29 20:52:42
+7,C007,Robert,Taylor,Robert Taylor,robert.taylor@email.com,Unknown,CA,2024-04-01,2026-04-29 20:52:42
