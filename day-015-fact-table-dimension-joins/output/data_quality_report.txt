@@ -1,0 +1,9 @@
+Day 15 Data Quality Report
+==========================
+
+Total sales records: 8
+Valid fact records loaded: 6
+Rejected records: 2
+Missing customer keys: 1
+Missing product keys: 1
+Missing total amount values: 1

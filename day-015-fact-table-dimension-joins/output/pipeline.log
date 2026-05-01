@@ -1,0 +1,9 @@
+2026-04-30 19:59:25,408 - INFO - Pipeline started
+2026-04-30 19:59:25,408 - INFO - Reading source CSV files
+2026-04-30 19:59:25,411 - INFO - Creating customer dimension table
+2026-04-30 19:59:25,412 - INFO - Creating product dimension table
+2026-04-30 19:59:25,413 - INFO - Creating fact sales table using dimension joins
+2026-04-30 19:59:25,417 - INFO - Validating fact sales table
+2026-04-30 19:59:25,419 - INFO - Loading dimension and fact tables into SQLite database
+2026-04-30 19:59:25,452 - INFO - Generating data quality report
+2026-04-30 19:59:25,453 - INFO - Pipeline completed successfully
