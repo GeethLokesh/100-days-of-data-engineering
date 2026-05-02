@@ -1,0 +1,8 @@
+Query Validation Report
+=======================
+Generated At: 2026-05-01 20:54:50.279603
+
+PASSED: sales_by_region returned 4 records
+PASSED: sales_by_product_category returned 3 records
+PASSED: daily_sales_report returned 4 records
+PASSED: top_customers returned 4 records

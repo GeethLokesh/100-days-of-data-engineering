@@ -1,0 +1,5 @@
+region,total_sales,total_quantity,total_orders
+East,1500.0,3,2
+Midwest,1450.0,2,2
+West,1400.0,5,2
+South,50.0,10,1

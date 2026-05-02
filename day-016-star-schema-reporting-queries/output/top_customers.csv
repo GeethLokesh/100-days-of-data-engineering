@@ -1,0 +1,5 @@
+customer_id,customer_name,region,total_sales
+C001,John Smith,East,1500.0
+C002,Maria Garcia,Midwest,1450.0
+C003,David Lee,West,1400.0
+C004,Priya Patel,South,50.0

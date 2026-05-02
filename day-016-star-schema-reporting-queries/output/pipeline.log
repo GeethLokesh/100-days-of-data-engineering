@@ -1,0 +1,13 @@
+2026-05-01 20:54:50,217 - INFO - Day 16 star schema reporting pipeline started
+2026-05-01 20:54:50,225 - INFO - Sample dimension and fact data created
+2026-05-01 20:54:50,265 - INFO - Data loaded into SQLite star schema tables
+2026-05-01 20:54:50,271 - INFO - Generated report: sales_by_region
+2026-05-01 20:54:50,274 - INFO - Generated report: sales_by_product_category
+2026-05-01 20:54:50,276 - INFO - Generated report: daily_sales_report
+2026-05-01 20:54:50,278 - INFO - Generated report: top_customers
+2026-05-01 20:54:50,278 - INFO - PASSED: sales_by_region returned 4 records
+2026-05-01 20:54:50,278 - INFO - PASSED: sales_by_product_category returned 3 records
+2026-05-01 20:54:50,279 - INFO - PASSED: daily_sales_report returned 4 records
+2026-05-01 20:54:50,279 - INFO - PASSED: top_customers returned 4 records
+2026-05-01 20:54:50,279 - INFO - Query validation report generated
+2026-05-01 20:54:50,279 - INFO - Day 16 star schema reporting pipeline completed successfully
