@@ -1,0 +1,10 @@
+Day 17 Data Quality Report
+==========================
+
+Total raw rows: 10
+Duplicate rows found: 1
+Rows with missing quantity: 1
+Rows with invalid price: 1
+Rows with invalid date: 1
+Clean rows loaded to warehouse: 6
+Rejected rows: 4

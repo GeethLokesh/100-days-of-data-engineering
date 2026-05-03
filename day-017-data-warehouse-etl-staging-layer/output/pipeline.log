@@ -1,0 +1,14 @@
+2026-05-02 23:26:21,150 - INFO - Pipeline started
+2026-05-02 23:26:21,150 - INFO - Extracting raw sales data from CSV
+2026-05-02 23:26:21,163 - INFO - Extracted 10 rows
+2026-05-02 23:26:21,163 - INFO - Connecting to SQLite warehouse database
+2026-05-02 23:26:21,167 - INFO - Creating staging and warehouse tables
+2026-05-02 23:26:21,190 - INFO - Loading raw data into staging_sales table
+2026-05-02 23:26:21,197 - INFO - Raw data loaded into staging layer
+2026-05-02 23:26:21,197 - INFO - Starting data validation and cleaning
+2026-05-02 23:26:21,217 - INFO - Validation completed. Clean rows: 6, Rejected rows: 4
+2026-05-02 23:26:21,217 - INFO - Loading clean data into warehouse tables
+2026-05-02 23:26:21,235 - INFO - Warehouse tables loaded successfully
+2026-05-02 23:26:21,236 - INFO - Generating data quality report
+2026-05-02 23:26:21,237 - INFO - Data quality report generated
+2026-05-02 23:26:21,237 - INFO - Pipeline completed successfully
