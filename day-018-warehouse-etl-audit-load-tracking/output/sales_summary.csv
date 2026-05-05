@@ -1,0 +1,5 @@
+product,total_orders,total_quantity,total_sales
+Laptop,3,3,2700.0
+Monitor,1,1,250.0
+Keyboard,1,1,75.0
+Mouse,1,2,50.0

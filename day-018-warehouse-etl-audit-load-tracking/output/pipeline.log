@@ -1,0 +1,7 @@
+2026-05-04 19:54:13,787 - INFO - Pipeline started
+2026-05-04 19:54:13,787 - INFO - Extracting raw sales data
+2026-05-04 19:54:13,797 - INFO - Cleaning and validating sales data
+2026-05-04 19:54:13,817 - INFO - Loading clean data into staging_sales table
+2026-05-04 19:54:13,822 - INFO - Loading data from staging table into warehouse table
+2026-05-04 19:54:13,826 - INFO - Generating sales summary report
+2026-05-04 19:54:13,833 - INFO - Pipeline completed successfully
