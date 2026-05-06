@@ -1,0 +1,7 @@
+2026-05-05 22:18:58,553 | INFO | Pipeline started with batch_id: BATCH_20260505_221858
+2026-05-05 22:18:58,570 | INFO | Extracting data from CSV file
+2026-05-05 22:18:58,583 | INFO | Cleaning data
+2026-05-05 22:18:58,593 | INFO | Removing duplicate records from incoming batch
+2026-05-05 22:18:58,597 | INFO | Loading only new records into sales_fact table
+2026-05-05 22:18:58,609 | INFO | Generating data quality report
+2026-05-05 22:18:58,610 | INFO | Pipeline completed successfully for batch_id: BATCH_20260505_221858

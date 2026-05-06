@@ -1,0 +1,9 @@
+sale_id,customer_id,product_name,sale_amount,sale_date
+S001,C001,Laptop,1200,2026-05-01
+S002,C002,Mouse,25,2026-05-01
+S003,C003,Keyboard,75,2026-05-02
+S004,C004,Monitor,300,2026-05-02
+S002,C002,Mouse,25,2026-05-01
+S005,C005,Desk Chair,180,2026-05-03
+S006,C006,USB Cable,15,2026-05-03
+S006,C006,USB Cable,15,2026-05-03

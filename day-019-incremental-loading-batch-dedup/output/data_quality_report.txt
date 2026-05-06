@@ -1,0 +1,9 @@
+Day 19 Data Quality Report
+==========================
+
+Batch ID: BATCH_20260505_221858
+Records received: 8
+Duplicates found inside batch: 2
+New records loaded: 6
+Existing records skipped: 0
+Pipeline status: SUCCESS
