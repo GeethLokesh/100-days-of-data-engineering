@@ -1,0 +1,17 @@
+2026-05-07 21:19:01,098 - INFO - Pipeline started
+2026-05-07 21:19:01,099 - INFO - Reading source and target files
+2026-05-07 21:19:01,112 - INFO - Source records loaded: 6
+2026-05-07 21:19:01,112 - INFO - Target records loaded: 5
+2026-05-07 21:19:01,112 - INFO - Validating source and target columns
+2026-05-07 21:19:01,113 - INFO - Column validation passed
+2026-05-07 21:19:01,113 - INFO - Starting reconciliation process
+2026-05-07 21:19:01,140 - INFO - Matched records: 2
+2026-05-07 21:19:01,140 - INFO - Mismatched records: 2
+2026-05-07 21:19:01,140 - INFO - Missing in target: 2
+2026-05-07 21:19:01,140 - INFO - Extra in target: 1
+2026-05-07 21:19:01,140 - INFO - Saving reconciliation output files
+2026-05-07 21:19:01,179 - INFO - Output files saved successfully
+2026-05-07 21:19:01,182 - INFO - Creating reconciliation report
+2026-05-07 21:19:01,183 - INFO - Reconciliation status: FAILED
+2026-05-07 21:19:01,183 - INFO - Reconciliation report created successfully
+2026-05-07 21:19:01,183 - INFO - Pipeline completed successfully

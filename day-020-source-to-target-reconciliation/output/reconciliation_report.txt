@@ -1,0 +1,29 @@
+
+Source-to-Target Reconciliation Report
+
+Reconciliation Status: FAILED
+
+Record Count Summary
+--------------------
+Total Source Records: 6
+Total Target Records: 5
+Matched Records: 2
+Mismatched Records: 2
+Missing in Target: 2
+Extra in Target: 1
+
+Validation Checks
+-----------------
+1. Source and target columns match.
+2. Source and target record counts compared.
+3. Missing records in target identified.
+4. Extra records in target identified.
+5. Field-level mismatches identified.
+
+Output Files
+------------
+matched_records.csv
+mismatched_records.csv
+missing_in_target.csv
+extra_in_target.csv
+pipeline.log

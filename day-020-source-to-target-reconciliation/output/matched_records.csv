@@ -1,0 +1,3 @@
+order_id,customer_name_source,product_name_source,quantity_source,order_amount_source,order_status_source,customer_name_target,product_name_target,quantity_target,order_amount_target,order_status_target,_merge
+1001,John Smith,Laptop,1.0,1200.0,Completed,John Smith,Laptop,1.0,1200.0,Completed,both
+1003,David Kim,Keyboard,1.0,80.0,Completed,David Kim,Keyboard,1.0,80.0,Completed,both

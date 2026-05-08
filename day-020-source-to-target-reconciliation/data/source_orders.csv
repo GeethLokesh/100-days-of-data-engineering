@@ -1,0 +1,7 @@
+order_id,customer_name,product_name,quantity,order_amount,order_status
+1001,John Smith,Laptop,1,1200,Completed
+1002,Sarah Lee,Mouse,2,50,Completed
+1003,David Kim,Keyboard,1,80,Completed
+1004,Emma Brown,Monitor,1,300,Pending
+1005,Michael Scott,Desk Chair,1,150,Completed
+1006,Linda Green,Webcam,2,140,Completed

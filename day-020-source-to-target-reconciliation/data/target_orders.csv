@@ -1,0 +1,6 @@
+order_id,customer_name,product_name,quantity,order_amount,order_status
+1001,John Smith,Laptop,1,1200,Completed
+1002,Sarah Lee,Mouse,2,55,Completed
+1003,David Kim,Keyboard,1,80,Completed
+1004,Emma Brown,Monitor,1,300,Completed
+1007,Kevin White,USB Cable,3,30,Completed
