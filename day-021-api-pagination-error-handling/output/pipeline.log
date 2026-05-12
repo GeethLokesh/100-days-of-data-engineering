@@ -1,0 +1,15 @@
+2026-05-11 19:17:23,737 - INFO - Pipeline started
+2026-05-11 19:17:23,737 - INFO - Fetching records from start=0, limit=25
+2026-05-11 19:17:24,330 - INFO - Fetched 25 records
+2026-05-11 19:17:24,330 - INFO - Fetching records from start=25, limit=25
+2026-05-11 19:17:24,826 - INFO - Fetched 25 records
+2026-05-11 19:17:24,826 - INFO - Fetching records from start=50, limit=25
+2026-05-11 19:17:25,349 - INFO - Fetched 25 records
+2026-05-11 19:17:25,349 - INFO - Fetching records from start=75, limit=25
+2026-05-11 19:17:25,982 - INFO - Fetched 25 records
+2026-05-11 19:17:25,983 - INFO - Fetching records from start=100, limit=25
+2026-05-11 19:17:26,593 - INFO - No more records found. Pagination completed.
+2026-05-11 19:17:26,598 - INFO - Raw data saved to output\raw_api_posts.json
+2026-05-11 19:17:26,649 - INFO - Clean data saved to output\clean_posts.csv
+2026-05-11 19:17:26,650 - INFO - Data quality report saved to output\data_quality_report.txt
+2026-05-11 19:17:26,650 - INFO - Pipeline completed successfully

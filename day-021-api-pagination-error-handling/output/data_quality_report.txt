@@ -1,0 +1,10 @@
+Day 21 Data Quality Report
+==========================
+
+total_records_received: 100
+duplicate_records_removed: 0
+missing_userId_count: 0
+missing_id_count: 0
+missing_title_count: 0
+missing_body_count: 0
+clean_records_saved: 100
